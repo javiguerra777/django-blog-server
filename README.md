@@ -6,7 +6,8 @@ This Django Server uses Django-Knox for token authentication. Currently users ca
 
 ## Getting Started
 
-1) clone the repository ```bash
+1) clone the repository 
+```bash
 git clone https://github.com/javiguerra777/django-blog-server.git
 ```
 2) create a new python virtualenv 
