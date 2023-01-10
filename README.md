@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ``` 
 note: make sure you have a python version of 3.8 or higher installed on your computer
 
-## How to add new depenecies
+## How to add new dependencies
 
 You won't need to add any dependencies since django is a batteries included framework. But if you need to add any new dependencies
 ```bash
